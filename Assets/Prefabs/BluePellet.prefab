@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 8857916721466337707}
-  pelletSpeed: 200
+  pelletSpeed: 100
 --- !u!114 &134476570138635305
 MonoBehaviour:
   m_ObjectHideFlags: 0
