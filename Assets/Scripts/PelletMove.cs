@@ -19,7 +19,7 @@ public class PelletMove : MonoBehaviour
     {
         rb.velocity += new Vector2(0f, pelletSpeed * Time.deltaTime);
 
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
 
         rb.velocity = new Vector2(0f, 0f);
 
